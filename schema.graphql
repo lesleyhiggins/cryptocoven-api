@@ -1,6 +1,6 @@
 type _Schema_
   @fulltext(
-    name: "covenSearch"
+    name: "MASearch"
     language: en
     algorithm: rank
     include: [{entity: "Token", fields:
